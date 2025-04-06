@@ -25,7 +25,6 @@
 - 📧 amulya92004@gmail.com  
 - 📱 7013835375  
 - 📍 Narasapur, India  
-- 🐙 GitHub: [Amulya0912](https://github.com/Amulya0912)  
 - 💼 LinkedIn: [Gunta Amulya](https://www.linkedin.com/in/gunta-amulya)  
 
 ---
