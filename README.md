@@ -16,7 +16,7 @@
 - ✅ API Fundamentals – Postman  
 - ✅ Node.js – Scaler Topics  
 - ✅ Full Stack Web Development – Udemy  
-- 👩‍💼 Worked as T&P Cell Coordinator  
+- 👩‍💼 Worked as Training and Placement Cell Coordinator  
 
 ---
 
